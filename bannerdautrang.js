@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://eazymarketing.net/' target='_blank'><img src='http://eazymarketing.net/wp-content/uploads/2015/05/social-media-content-writers.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://eazymarketing.net/' target='_blank'><img src='http://eazymarketing.net/wp-content/uploads/2015/05/social-media-content-writers.jpg' width='500px'/><br/>Quảng Cáo Online giá rẻ</a>. Tại EazyMarketing.net <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
